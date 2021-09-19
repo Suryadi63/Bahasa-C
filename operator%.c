@@ -20,8 +20,8 @@
 
 int main(void) {
     printf("%2d %s %d \t = %d\n", 10, "%", 3, (10 % 3));
-    printf("%d2 %s %d \t = %d\n", 8, "%", 3, (8 % 3));
-    printf("%d2 %s %d \t = %d\n", 15, "%", 4, (15 % 4));
+    printf("%2d %s %d \t = %d\n", 8, "%", 3, (8 % 3));
+    printf("%2d %s %d \t = %d\n", 15, "%", 4, (15 % 4));
 return 0;
 
 }
